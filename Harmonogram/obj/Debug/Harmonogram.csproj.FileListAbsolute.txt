@@ -1,0 +1,11 @@
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\bin\Debug\Harmonogram.exe.config
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\bin\Debug\Harmonogram.exe
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\bin\Debug\Harmonogram.pdb
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\obj\Debug\Harmonogram.csproj.AssemblyReference.cache
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\obj\Debug\Harmonogram.Properties.Resources.resources
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\obj\Debug\Harmonogram.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\obj\Debug\Harmonogram.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\obj\Debug\Harmonogram.exe
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\obj\Debug\Harmonogram.pdb
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\bin\Debug\cdn_api20202.net.dll
+C:\Users\magdaw\Documents\TuFlowers\Harmonogram\Harmonogram\obj\Debug\Harmonogram.csproj.CopyComplete
